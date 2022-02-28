@@ -1,7 +1,5 @@
 var Name = prompt('Введите свое имя');
 
-Name = 'color: blue;';
-
 console.log('Меня зовут ' + Name);
 
 var age = +prompt('Введите свой год рождения');
